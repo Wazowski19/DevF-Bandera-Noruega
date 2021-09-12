@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+
+.azul{
+    height: 250px;
+    width: 500px;
+    background-color: #002768;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    /*align-content: flex-start;*/
+    
+    
+}
+
+.mitad{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.blanca{
+    height: 110px;
+    width: 110px;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.roja{
+    height: 90px;
+    width: 90px;
+    background-color: #ef2b2d;
+}
+
+.derecha{
+    width: 360px;
+    justify-content: flex-end;
+    
+}
+
+
+.abajo{
+    align-items: flex-end;
+}
+
+.larga{
+    width: 340px;
+}
+
+
+
+
+
+
+
+
+
+
